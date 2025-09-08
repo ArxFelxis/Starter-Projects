@@ -1,0 +1,32 @@
+html{
+    margin: 40px 400px 40px 400px;
+    background-image: url(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjdtbnBzNjNmd2R5dXBpbmYxa2RkaHF0djlvc3ZmcW5sc3c0YjNxbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iicDrNGWxHmDrIni6j/giphy.gif);
+    background-size: cover;
+}
+
+.CV{
+    border: 3px solid;
+    padding: 50px;
+    background-color: rgb(224, 209, 209);
+    font-family: 'Brush Script MT', cursive;
+    display: flow-root;
+}
+
+#name{
+    border-top:2px solid;
+    padding-top: 20px;
+}
+
+img{
+    width: 180px;
+    float: right;
+    padding-top: 20px;
+}
+.title{
+    color: #82C58F;
+}
+
+.head{
+    color: #68A1D7;
+}
+
