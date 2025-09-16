@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;;
+}
+
+.indiv-color-btn {
+   padding: 15px 40px;
+   width: 150px;
+   border-radius: 10px;
+}
+
+#green-btn {
+    background: green;
+}
+
+#red-btn {
+    background: red;
+}
+
+#blue-btn {
+    background: blue;
+}
+
+#random-btn {
+    background: grey;
+}
+
+#hex-code {
+    border: 2px solid black;
+    width: 150px;
+    text-align: center;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+
